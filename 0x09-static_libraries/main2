@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include "main.h"
+
+int main(void)
+{
+	
+	int addition = divine(3, 4);
+	int addition2 = divine(7, 2);
+	int addition3 = divine(190, 34);
+	printf("%d\n", addition2);
+
+
+	return 0;
+}
